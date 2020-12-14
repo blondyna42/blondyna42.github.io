@@ -1,0 +1,34 @@
+body{
+	margin:0;
+	background-color: #efefef;
+	font-family: 'Poppins', sans-serif;
+}
+
+header {
+	font-size: 20px;
+	background-color: black;
+	color: #cccccc;
+	height: 75px;
+}
+
+#topbar {
+	width:75%;
+	margin-left: auto ;
+    margin-right: auto ;
+}
+
+.logo {
+	float:left;
+	font-size:30px;
+	padding-left:20px;
+	padding-top:20px;
+}
+
+.box{
+	margin-top: 20px;
+	width:75%;
+	margin-left: auto ;
+    margin-right: auto ;
+    height: 400px;
+}
+
